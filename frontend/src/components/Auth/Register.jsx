@@ -93,7 +93,11 @@ const Register = () => {
               <div>
                 <input
                   type="text"
+<<<<<<< HEAD
                   placeholder="Pankaj Chaurasiya"
+=======
+                  placeholder="Pankaj"
+>>>>>>> b8c6c1f39488a923e8b6cefa4cd22d83a7d450de
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                 />
